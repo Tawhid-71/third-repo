@@ -1,0 +1,14 @@
+.non{
+    color: rgb(10, 233, 177);
+    font-size:large;
+    margin-top: 20px;
+    background-color: black;
+    margin-bottom:20px;
+    border-radius:10px;
+    border: 3px solid rgb(10, 233, 177);
+}
+.me{
+    color: rgb(19, 204, 204);
+    background-color: brown;
+  
+}
